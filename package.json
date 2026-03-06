@@ -1,5 +1,5 @@
 {
-  "name": "pub-demo",
+  "name": "@sunmoonstarme/pub-demo",
   "version": "1.0.0",
   "description": "In this guide, I will create a GitHub Actions workflow to test code and then publish it to GitHub Packages.",
   "main": "index.js",
