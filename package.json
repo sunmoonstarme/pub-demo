@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "publishConfig": {
-    "sunmoonstarme:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   },
   "bugs": {
     "url": "https://github.com/sunmoonstarme/pub-demo/issues"
