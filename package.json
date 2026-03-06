@@ -1,0 +1,22 @@
+{
+  "name": "pub-demo",
+  "version": "1.0.0",
+  "description": "In this guide, I will create a GitHub Actions workflow to test code and then publish it to GitHub Packages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunmoonstarme/pub-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "publishConfig": {
+    "sunmoonstarme:registry": "https://npm.pkg.github.com"
+  },
+  "bugs": {
+    "url": "https://github.com/sunmoonstarme/pub-demo/issues"
+  },
+  "homepage": "https://github.com/sunmoonstarme/pub-demo#readme"
+}
